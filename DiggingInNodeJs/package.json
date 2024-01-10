@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "get-stdin": "^9.0.0",
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "sqlite3": "^5.1.7"
   },
   "name": "digginginnodejs",
   "version": "1.0.0",
